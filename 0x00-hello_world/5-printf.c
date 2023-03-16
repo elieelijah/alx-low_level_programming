@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - Entry point
  *
  * Description: A C program that use printf function.
