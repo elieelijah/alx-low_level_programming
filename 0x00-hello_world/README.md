@@ -1,7 +1,7 @@
 				
 				0x00. C - Hello, World
 
-		General
+		## General
 	
 * Why C programming is awesome
 * Who invented C
@@ -17,7 +17,7 @@
 * How to find the right header to include in your source code when using a standard library function
 * How does the main function influence the return value of the program
 
-		Requirements
+		## Requirements
 	C
 	
 * Allowed editors: vi, vim, emacs
@@ -29,7 +29,7 @@
 * You are not allowed to use system
 * Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
-		Shell Scripts
+		## Shell Scripts
 
 * Allowed editors: vi, vim, emacs
 * All your scripts will be tested on Ubuntu 20.04 LTS
@@ -37,7 +37,7 @@
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/bin/bash
 
-		Taks
+		## Taks
 
 0. Preprocessor
 1. Compiler
