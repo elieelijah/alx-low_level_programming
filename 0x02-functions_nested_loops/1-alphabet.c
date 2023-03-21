@@ -1,11 +1,9 @@
 #include"main.h"
 
- /**
-  * main - check the code
-  *
-  * Description: a C program that prints the alphabet in lowecase.
-  *
-  */
+/**
+ * print_alphabet - utilizes on the _putchar function to print
+ *                 the alphabet a - z
+*/
 
 void print_alphabet(void)
 {
