@@ -1,6 +1,8 @@
-		0x04. C - More functions, more nested loops
+			0x04. C - More functions, more nested loops
 
-	General
+
+
+		General
 
 * What are nested loops and how to use them
 * What is a function and how do you use functions
@@ -10,7 +12,9 @@
 * What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 * What are header files and how to to use them with #include
 
-	Requirements
+
+		Requirements
+
 
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -26,7 +30,9 @@
 * The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 * Don’t forget to push your header file
 
-	Task
+
+		Task
+
 
 2. Collaboration is multiplication
 3. The numbers speak for themselves
