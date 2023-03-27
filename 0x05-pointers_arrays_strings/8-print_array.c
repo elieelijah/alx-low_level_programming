@@ -1,28 +1,24 @@
 #include"main.h"
 
 /**
- * puts_half - prints half of a string
+ * print_array - prints n elements of an array of integers.
  *
- * @str: string parameter input
+ * @n: elements parameter input
+ * @a: string parameter input
  *
  * Return: Nothing
 */
 
-void puts_half(char *str)
+void print_array(int *a, int n)
 {
-	int l, n;
+	int i;
 
-	for (l = 0; str[l] != '\0'; ++l)
-		;
-
-	if (l % 2 == 0)
+	for (i = 0; i < n; ++i)
 	{
-		for (n = l / 2; str[n] != '\0'; ++n)
-			_putchar(str[n]);
-	} else
-	{
-		for (n = ((l - 1) / 2) + 1; str[n] != '\0'; ++n)
-			_putchar(str[n]);
+		if (i != (n - 1))
+			printf("%d, ", a[i]);
+		else
+			printf("%d", a[i]);
 	}
-	_putchar('\n');
+	printf("\n");
 }
