@@ -13,16 +13,16 @@
 */
 
 int main() {
-    char password[PASSWORD_LENGTH + 1]; // Add 1 for null terminator
-    const char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"; // Add more characters as needed
+    char password[PASSWORD_LENGTH + 1];
+    const char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     int i;
 
-    srand(time(NULL)); // Seed the random number generator with the current time
+    srand(time(NULL));
 
     for (i = 0; i < PASSWORD_LENGTH; i++) {
-        password[i] = charset[rand() % (sizeof(charset) - 1)]; // Generate a random character from the charset
+        password[i] = charset[rand() % (sizeof(charset) - 1)];
     }
-    password[PASSWORD_LENGTH] = '\0'; // Add null terminator to the end of the password string
+    password[PASSWORD_LENGTH] = '\0';
 
     printf("Random password: %s\n", password);
 
