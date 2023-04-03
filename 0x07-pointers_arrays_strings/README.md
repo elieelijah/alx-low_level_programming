@@ -10,7 +10,9 @@
 * What are the most common C standard library functions to manipulate strings
 
 
+
 	Requirements
+
 
 
 * Allowed editors: vi, vim, emacs
@@ -28,7 +30,10 @@
 * Don’t forget to push your header file
 
 
+
 	Tasks
+
+
 
 0. memset
 1. memcpy
