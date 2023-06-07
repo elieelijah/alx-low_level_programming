@@ -5,6 +5,9 @@
 - In what situations you should implement recursion
 - In what situations you shouldn’t implement recursion
 
+---
+
+<details>
 <summary>Requirements</summary>
 +` Allowed editors: vi, vim, emacs`
 +` All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89`
