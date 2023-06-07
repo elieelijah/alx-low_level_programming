@@ -1,6 +1,4 @@
-	# 0x08. C - Recursion
-	
-	## General
+# 0x08. C - Recursion
 
 - What is recursion
 - How to implement recursion
@@ -8,7 +6,6 @@
 - In what situations you shouldn’t implement recursion
 
 <summary>Requirements</summary>
-
 +` Allowed editors: vi, vim, emacs`
 +` All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89`
 +` All your files should end with a new line`
@@ -26,7 +23,7 @@
 +` You are not allowed to use static variables`
 
 
-	##Tasks
+## Task
 ---
 
 - [puts_recursion](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x08-recursion/0-puts_recursion.c)
