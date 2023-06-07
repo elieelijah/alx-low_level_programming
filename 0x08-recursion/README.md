@@ -11,8 +11,6 @@
 * In what situations you should implement recursion
 * In what situations you shouldn’t implement recursion
 
-	<details>
-
 <summary>Requirements</summary>
 
 +` Allowed editors: vi, vim, emacs`
