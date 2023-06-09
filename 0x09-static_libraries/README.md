@@ -1,15 +1,14 @@
-			#0x09. C - Static libraries
 
 
-	##General
+# 0x08. C - Recursion
 
 
 -  What is a static library, how does it work, how to create one, and how to use it
 - Basic usage of `ar`, `ranlib`, `nm`
 
 
-	##Requirements
-
+## Requirements
+	
 
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -26,7 +25,7 @@
 - Don’t forget to push your header file
 
 
-	##Bash
+## Bash
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -37,7 +36,7 @@
 - All your files must be executable
 
 
-	##Task
+## Task
 
 
 0. A library is not a luxury but one of the necessities of life
