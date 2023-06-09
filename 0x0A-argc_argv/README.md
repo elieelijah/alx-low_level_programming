@@ -1,13 +1,13 @@
-#0x0A. C - Argc, argv
+# 0x0A. C - Argc, argv
 
-##Resource
+## Resource
 
 - Arguments to main
 - vargc and argv
 - What does argc and argv mean?
  -How to compile with unused variables
 
-##Tasks
+## Tasks
 
 
 0. It ain't what they call you, it's what you answer to : A program that prints its name, followed by a new line.
