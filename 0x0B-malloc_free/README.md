@@ -1,7 +1,7 @@
-#0x0B. C - malloc, free
+# 0x0B. C - malloc, free
 
 
-##Resource
+## Resource
 
 - Dynamic Memory Allocation in C using `malloc()`, `calloc()`, `free()` and `realloc()`.
 - Dynamic memory allocation in C - malloc calloc realloc free.
@@ -10,7 +10,7 @@
 
 
 
-##Tasks
+## Tasks
 
 
 
