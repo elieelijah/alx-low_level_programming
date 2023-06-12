@@ -14,14 +14,14 @@
 
 
 
-0. [Float like a butterfly, sting like a bee] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/0-create_array.c)
+0. [Float like a butterfly, sting like a bee](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/0-create_array.c)
 
     - Prototype: `char *create_array(unsigned int size, char c)`;
     - Returns NULL if size = 0.
     - Returns a pointer to the array, or NULL if it fails.
     - Compile the code this way: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-create_array.c -o a`
 
-1. [The woman who has no imagination has no wings] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/1-strdup.c)
+1. [The woman who has no imagination has no wings](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/1-strdup.c)
 
     - Prototype: `char *_strdup(char *str)`;
     - The _strdup() function returns a pointer to a new string which is a duplicate of the string str.
@@ -31,7 +31,7 @@
     - FYI: The standard library provides a similar function: strdup. Run `man strdup` to learn more.
     - Compile the code this way: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strdup.c -o s`
 
-2. [He who is not courageous enough to take risks will accomplish nothing in life : A function that concatenates two strings.] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/2-str_concat.c)
+2. [He who is not courageous enough to take risks will accomplish nothing in life : A function that concatenates two strings.](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/2-str_concat.c)
 
     - Prototype: `char *str_concat(char *s1, char *s2)`;
     - The returned pointer should point to a newly allocated space in memory which contains the contents of s1, followed by the contents of s2, and null terminated.
@@ -39,7 +39,7 @@
     - The function should return NULL on faliure.
     - Compile the code this way: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-str_concat.c -o c`
 
-3. [If you even dream of beating me you'd better wake up and apologize : A function that returns a pointer to a 2 dimensional array of integers.] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/3-alloc_grid.c)
+3. [If you even dream of beating me you'd better wake up and apologize : A function that returns a pointer to a 2 dimensional array of integers.](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/3-alloc_grid.c)
 
    - Prototype: `int **alloc_grid(int width, int height)`;
    - Each element of the grid should be initialized to 0.
@@ -47,7 +47,7 @@
    - If width or height is 0 or negative, return NULL.
    - Compile the code this way: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-alloc_grid.c -o g`
 
-4. [It's not bragging if you can back it up : A function that frees a 2 dimensional grid previously created by the alloc_grid function.] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/4-free_grid.c)
+4. [It's not bragging if you can back it up : A function that frees a 2 dimensional grid previously created by the alloc_grid function.](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x0B-malloc_free/4-free_grid.c)
 
    - Prototype: void `free_grid(int **grid, int height)`;
    - Note that we will first compile the alloc_grid file to make sure it compiles.
