@@ -62,7 +62,7 @@ typedef struct list_s
 ## Tasks
 
 
-0. [Print list : A function that prints all the elements of a list_t list.] (https://github.com/elieelijah/alx-low_level_programming/blob/master/0x12-singly_linked_lists/0-print_list.c)
+0. (Print list : A function that prints all the elements of a list_t list.)[https://github.com/elieelijah/alx-low_level_programming/blob/master/0x12-singly_linked_lists/0-print_list.c]
 Prototype: size_t print_list(const list_t *h);
 Return: the number of nodes.
 Format:
