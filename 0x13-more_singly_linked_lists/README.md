@@ -28,19 +28,19 @@
 
 ## Tasks
 
-0. Print list
-1. List length
-2. Add node
-3. Add node at the end
-4. Free list
-5. Free
-6. Pop
-7. Get node at index
-8. Sum list
-9. Insert
-10. Delete at index
-11. Reverse list
-12. Print (safe version)
-13. Free (safe version)
-14. Find the loop
+0. [Print list](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/0-print_listint.c)
+1. [List length](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/1-listint_len.c)
+2. [Add node](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/2-add_nodeint.c)
+3. [Add node at the end](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/3-add_nodeint_end.c)
+4. [Free list](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/4-free_listint.c)
+5. [Free](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/5-free_listint2.c)
+6. [Pop](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/6-pop_listint.c)
+7. [Get node at index](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/7-get_nodeint.c)
+8. [Sum list](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/8-sum_listint.c)
+9. [Insert](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/9-insert_nodeint.c)
+10. [Delete at index](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/10-delete_nodeint.c)
+11. [Reverse list](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/100-reverse_listint.c)
+12. [Print (safe version)](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/101-print_listint_safe.c)
+13. [Free (safe version)](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/102-free_listint_safe.c)
+14. [Find the loop](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x13-more_singly_linked_lists/103-find_loop.c)
 
