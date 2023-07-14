@@ -28,11 +28,11 @@
 
 ## Tasks
 
-0. 0
-1. 1
-2. 10
-3. 11
-4. 100
-5. 101
-6. Endianness
-7. Crackme3
+0. [0](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c)
+1. [1](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/1-print_binary.c)
+2. [10](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/2-get_bit.c)
+3. [11](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/3-set_bit.c)
+4. [100](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c)
+5. [101](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/5-flip_bits.c)
+6. [Endianness](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/100-get_endianness.c)
+7. [Crackme3](https://github.com/elieelijah/alx-low_level_programming/blob/master/0x14-bit_manipulation/101-password)
